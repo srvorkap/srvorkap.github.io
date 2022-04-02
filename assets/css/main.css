@@ -7,6 +7,17 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+article.box.style2 {
+	width: 383px;
+	height: 360px;
+}
+
+a img {
+	width: 383px;
+	height: 188px;
+	object-fit: cover;
+}
+
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
@@ -1927,6 +1938,7 @@ input, select, textarea {
 
 		.box.style2 h3 {
 			margin-bottom: 0.25em;
+			/* height: 360px; */
 		}
 
 		.box.style2 .image {
